@@ -21,6 +21,7 @@ async function main() {
   await Voting.compile()
 
   const candidateNames: FixedArray<Name, typeof N> = [
+    // hi
     toByteString('iPhone', true),
     toByteString('Android', true),
     toByteString('Windows', true),
