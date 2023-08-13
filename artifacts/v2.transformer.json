@@ -1,0 +1,9 @@
+{
+  "success": true,
+  "errors": [],
+  "scryptfile": "v2.scrypt",
+  "sourceMapFile": "v2.scrypt.map",
+  "ctxMethods": [
+    "vote"
+  ]
+}
