@@ -30,6 +30,7 @@ async function main() {
   const instance = new Voting(candidateNames)
 
   // Connect to a signer.
+  //
   await instance.connect(signer)
 
   // Contract deployment.
