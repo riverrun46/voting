@@ -1,7 +1,7 @@
 {
   "name": "voting",
   "version": "0.1.0",
-  "homepage": "https://github.com/riverrun46/voting.git",
+  "homepage": "https://riverrun46.github.io/voting",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.6",
