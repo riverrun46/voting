@@ -31,6 +31,7 @@ async function main() {
 
   // Connect to a signer.
   //
+  //
   await instance.connect(signer)
 
   // Contract deployment.
