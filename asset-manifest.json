@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/riverrun46/voting.git/static/css/main.bca2956b.css",
-    "main.js": "/riverrun46/voting.git/static/js/main.cf043e94.js",
-    "static/js/235.7f065f46.chunk.js": "/riverrun46/voting.git/static/js/235.7f065f46.chunk.js",
-    "index.html": "/riverrun46/voting.git/index.html",
-    "main.bca2956b.css.map": "/riverrun46/voting.git/static/css/main.bca2956b.css.map",
-    "main.cf043e94.js.map": "/riverrun46/voting.git/static/js/main.cf043e94.js.map",
-    "235.7f065f46.chunk.js.map": "/riverrun46/voting.git/static/js/235.7f065f46.chunk.js.map"
+    "main.css": "/voting/static/css/main.bca2956b.css",
+    "main.js": "/voting/static/js/main.ff1546db.js",
+    "static/js/235.7f065f46.chunk.js": "/voting/static/js/235.7f065f46.chunk.js",
+    "index.html": "/voting/index.html",
+    "main.bca2956b.css.map": "/voting/static/css/main.bca2956b.css.map",
+    "main.ff1546db.js.map": "/voting/static/js/main.ff1546db.js.map",
+    "235.7f065f46.chunk.js.map": "/voting/static/js/235.7f065f46.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bca2956b.css",
-    "static/js/main.cf043e94.js"
+    "static/js/main.ff1546db.js"
   ]
 }
