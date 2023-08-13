@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/riverrun46/voting.git/static/css/main.bca2956b.css",
+    "main.js": "/riverrun46/voting.git/static/js/main.cf043e94.js",
+    "static/js/235.7f065f46.chunk.js": "/riverrun46/voting.git/static/js/235.7f065f46.chunk.js",
+    "index.html": "/riverrun46/voting.git/index.html",
+    "main.bca2956b.css.map": "/riverrun46/voting.git/static/css/main.bca2956b.css.map",
+    "main.cf043e94.js.map": "/riverrun46/voting.git/static/js/main.cf043e94.js.map",
+    "235.7f065f46.chunk.js.map": "/riverrun46/voting.git/static/js/235.7f065f46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bca2956b.css",
+    "static/js/main.cf043e94.js"
+  ]
+}
